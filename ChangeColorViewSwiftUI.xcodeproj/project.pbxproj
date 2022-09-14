@@ -11,6 +11,8 @@
 		E9AF4BAC28D1D66100C23E4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AF4BAB28D1D66100C23E4A /* ContentView.swift */; };
 		E9AF4BAE28D1D66200C23E4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9AF4BAD28D1D66200C23E4A /* Assets.xcassets */; };
 		E9AF4BB128D1D66200C23E4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9AF4BB028D1D66200C23E4A /* Preview Assets.xcassets */; };
+		E9AF4BB828D2960400C23E4A /* ValueLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AF4BB728D2960400C23E4A /* ValueLabels.swift */; };
+		E9AF4BBA28D296C600C23E4A /* Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AF4BB928D296C600C23E4A /* Sliders.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		E9AF4BAB28D1D66100C23E4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E9AF4BAD28D1D66200C23E4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9AF4BB028D1D66200C23E4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E9AF4BB728D2960400C23E4A /* ValueLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValueLabels.swift; sourceTree = "<group>"; };
+		E9AF4BB928D296C600C23E4A /* Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sliders.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +56,9 @@
 			isa = PBXGroup;
 			children = (
 				E9AF4BA928D1D66100C23E4A /* ChangeColorViewSwiftUIApp.swift */,
+				E9AF4BB728D2960400C23E4A /* ValueLabels.swift */,
 				E9AF4BAB28D1D66100C23E4A /* ContentView.swift */,
+				E9AF4BB928D296C600C23E4A /* Sliders.swift */,
 				E9AF4BAD28D1D66200C23E4A /* Assets.xcassets */,
 				E9AF4BAF28D1D66200C23E4A /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				E9AF4BAC28D1D66100C23E4A /* ContentView.swift in Sources */,
 				E9AF4BAA28D1D66100C23E4A /* ChangeColorViewSwiftUIApp.swift in Sources */,
+				E9AF4BBA28D296C600C23E4A /* Sliders.swift in Sources */,
+				E9AF4BB828D2960400C23E4A /* ValueLabels.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
